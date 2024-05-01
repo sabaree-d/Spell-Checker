@@ -1,2 +1,2 @@
 # Spell-Checker
-React Spell Checker Implementation using class based components
+React Spell Checker Implementation using Functional components
